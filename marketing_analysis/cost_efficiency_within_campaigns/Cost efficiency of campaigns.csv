@@ -1,0 +1,201 @@
+campaign_id,campaign_name,ad_id,ad_name,total_impressions,total_clicks,total_spend,cpc,cpc_rank
+101,"Summer Electronics Sale",2009,"Developer Laptop Ad",1316127,7598,5942.20,0.7820742,1
+101,"Summer Electronics Sale",2004,"Top Gadget Deals",1284430,7552,6220.54,0.8236944,2
+101,"Summer Electronics Sale",2007,"Productivity Laptop Banner",930812,17607,23372.31,1.3274442,3
+101,"Summer Electronics Sale",2001,"Electronics Sale Banner",1028972,21421,30638.00,1.4302787,4
+101,"Summer Electronics Sale",2002,"Electronics Flash Sale",871204,17661,25657.18,1.4527592,5
+101,"Summer Electronics Sale",2011,"Programming Laptop Deal",1038061,23689,35002.48,1.4775837,6
+101,"Summer Electronics Sale",2012,"Developer Hardware Promo",909276,16655,24828.03,1.4907253,7
+101,"Summer Electronics Sale",2006,"Office Laptop Video",1027532,23793,35865.59,1.5074009,8
+101,"Summer Electronics Sale",2005,"Professional Laptop Ad",1222605,55107,112873.95,2.0482688,9
+101,"Summer Electronics Sale",2010,"Coding Laptop Video",1199503,52002,116713.36,2.2444014,10
+101,"Summer Electronics Sale",2003,"Electronics Promo Video",602122,5065,31622.94,6.2434235,11
+101,"Summer Electronics Sale",2008,"Premium Laptop Offer",590565,5275,35330.69,6.6977611,12
+102,"Fashion Brand Awareness",2014,"Fashion Video Lookbook",1326771,7850,6328.58,0.8061885,1
+102,"Fashion Brand Awareness",2019,"Designer Fashion Promo",1295450,7234,6530.60,0.9027647,2
+102,"Fashion Brand Awareness",2024,"Budget Fashion Picks",1307662,6060,6446.46,1.0637723,3
+102,"Fashion Brand Awareness",2021,"Discount Fashion Banner",998561,22267,29819.80,1.3391925,4
+102,"Fashion Brand Awareness",2022,"Fashion Sale Video",897466,16960,23763.86,1.4011710,5
+102,"Fashion Brand Awareness",2017,"Luxury Fashion Ad",910137,16277,23882.66,1.4672642,6
+102,"Fashion Brand Awareness",2016,"Trending Fashion Picks",997343,22020,35118.28,1.5948356,7
+102,"Fashion Brand Awareness",2015,"Fashion Style Ad",1196836,51568,113076.45,2.1927639,8
+102,"Fashion Brand Awareness",2020,"Premium Style Banner",1221808,48073,123747.96,2.5741676,9
+102,"Fashion Brand Awareness",2023,"Fashion Discount Promo",610542,6066,35277.63,5.8156330,10
+102,"Fashion Brand Awareness",2018,"Luxury Style Video",597884,5355,32408.88,6.0520784,11
+102,"Fashion Brand Awareness",2013,"Fashion Trend Banner",613962,5358,35714.34,6.6656103,12
+103,"B2B SaaS Lead Generation",2034,"Business Software Video",1331926,7925,5358.72,0.6761792,1
+103,"B2B SaaS Lead Generation",2029,"Marketing SaaS Banner",1353746,7405,6462.05,0.8726604,2
+103,"B2B SaaS Lead Generation",2031,"Campaign Analytics Promo",998839,21715,28260.78,1.3014405,3
+103,"B2B SaaS Lead Generation",2027,"Startup Platform Promo",906472,18317,26446.31,1.4438123,4
+103,"B2B SaaS Lead Generation",2036,"Business Growth Tools",1019834,21216,32809.22,1.5464376,5
+103,"B2B SaaS Lead Generation",2026,"Startup SaaS Video",1030674,21798,33763.92,1.5489458,6
+103,"B2B SaaS Lead Generation",2032,"Digital Marketing Tools",892431,18214,29051.64,1.5950170,7
+103,"B2B SaaS Lead Generation",2035,"Business Productivity Ad",1177816,55766,114294.15,2.0495311,8
+103,"B2B SaaS Lead Generation",2025,"Startup SaaS Ad",1199317,51081,112768.86,2.2076479,9
+103,"B2B SaaS Lead Generation",2030,"Marketing SaaS Video",1202722,50749,121003.57,2.3843538,10
+103,"B2B SaaS Lead Generation",2028,"Founder Productivity Ad",596764,5332,29106.09,5.4587566,11
+103,"B2B SaaS Lead Generation",2033,"Small Business SaaS",601711,5545,34156.07,6.1597962,12
+104,"New Fitness App Launch",2044,"Healthy Lifestyle App",1305923,7211,6049.28,0.8388961,1
+104,"New Fitness App Launch",2039,"Workout Tracker Ad",1356471,7052,6377.32,0.9043279,2
+104,"New Fitness App Launch",2041,"Mobile Fitness Tracker",1006911,23457,32870.31,1.4013007,3
+104,"New Fitness App Launch",2042,"Smart Fitness Video",883969,16733,23793.21,1.4219333,4
+104,"New Fitness App Launch",2037,"Fitness App Banner",895672,16788,23878.18,1.4223362,5
+104,"New Fitness App Launch",2046,"Health Journey Promo",1036520,23502,36217.93,1.5410574,6
+104,"New Fitness App Launch",2045,"Wellness Tracker Video",1222863,52062,102657.69,1.9718353,7
+104,"New Fitness App Launch",2040,"Fitness Challenge Promo",1211071,54637,115092.54,2.1064945,8
+104,"New Fitness App Launch",2038,"Fitness App Video",599799,5478,33463.93,6.1087861,9
+104,"New Fitness App Launch",2043,"Daily Workout App",604615,4784,30706.49,6.4185807,10
+105,"Monsoon Sale Campaign",2049,"Monsoon Discount Banner",1292228,7249,6227.18,0.8590399,1
+105,"Monsoon Sale Campaign",2054,"Luxury Sale Video",1323435,6660,6000.15,0.9009234,2
+105,"Monsoon Sale Campaign",2052,"Monsoon Style Video",896623,16911,25068.89,1.4824014,3
+105,"Monsoon Sale Campaign",2051,"Rainy Season Fashion",993907,22259,35197.74,1.5812813,4
+105,"Monsoon Sale Campaign",2047,"Monsoon Electronics Sale",867414,17043,29949.27,1.7572769,5
+105,"Monsoon Sale Campaign",2050,"Monsoon Fashion Picks",1200562,54880,113495.64,2.0680692,6
+105,"Monsoon Sale Campaign",2055,"Exclusive Luxury Offer",1194924,49194,116260.77,2.3633120,7
+105,"Monsoon Sale Campaign",2053,"Premium Monsoon Deals",624153,5317,34823.70,6.5495016,8
+105,"Monsoon Sale Campaign",2048,"Rainy Season Sale Video",599769,5416,39441.85,7.2824686,9
+106,"Laptop Back to College",2064,"Budget Laptop Picks",1282177,7400,6102.13,0.8246122,1
+106,"Laptop Back to College",2059,"Developer Laptop Upgrade",1308497,6694,6626.95,0.9899836,2
+106,"Laptop Back to College",2056,"Student Laptop Offer",1045632,23542,32553.52,1.3827848,3
+106,"Laptop Back to College",2062,"Laptop Discount Banner",904790,17739,26344.19,1.4851001,4
+106,"Laptop Back to College",2061,"Programming Laptop Deal",1000109,22666,34368.37,1.5162962,5
+106,"Laptop Back to College",2057,"Back to College Video",888865,16359,27237.12,1.6649624,6
+106,"Laptop Back to College",2060,"Developer Laptop Video",1202904,51487,125156.44,2.4308357,7
+106,"Laptop Back to College",2058,"Student Tech Promo",601919,5638,32505.19,5.7653760,8
+106,"Laptop Back to College",2063,"Laptop Sale Video",615833,5231,30992.51,5.9247773,9
+107,"Travel Booking Promotion",2069,"Budget Travel Video",1291682,6641,6163.55,0.9281057,1
+107,"Travel Booking Promotion",2067,"Holiday Booking Promo",916449,17418,23683.03,1.3596871,2
+107,"Travel Booking Promotion",2072,"City Break Video",901850,17547,26755.71,1.5248025,3
+107,"Travel Booking Promotion",2066,"Travel Inspiration Video",1011007,20991,33420.57,1.5921381,4
+107,"Travel Booking Promotion",2071,"Urban Travel Ad",1023592,23629,38204.76,1.6168589,5
+107,"Travel Booking Promotion",2070,"Travel Discount Banner",1203600,52465,115365.29,2.1989000,6
+107,"Travel Booking Promotion",2065,"Travel Deals Banner",1204670,51272,120117.61,2.3427526,7
+107,"Travel Booking Promotion",2068,"Cheap Flight Deals",597856,5573,36920.88,6.6249560,8
+107,"Travel Booking Promotion",2073,"Business Travel Deals",580116,5165,36024.38,6.9747106,9
+108,"Luxury Watch Promotion",2079,"Elite Watch Promo",1277546,7624,5535.48,0.7260598,1
+108,"Luxury Watch Promotion",2074,"Luxury Watch Ad",1319851,7143,6043.92,0.8461319,2
+108,"Luxury Watch Promotion",2077,"Executive Watch Banner",901038,17675,22244.38,1.2585222,3
+108,"Luxury Watch Promotion",2081,"Luxury Watch Showcase",1002982,24712,31913.05,1.2913989,4
+108,"Luxury Watch Promotion",2082,"Premium Watch Offer",903394,16848,23203.92,1.3772507,5
+108,"Luxury Watch Promotion",2076,"Designer Watch Promo",1009436,21122,33133.29,1.5686625,6
+108,"Luxury Watch Promotion",2080,"Smart Luxury Watch",1198205,57004,113751.34,1.9954975,7
+108,"Luxury Watch Promotion",2075,"Premium Watch Video",1187939,51022,110759.53,2.1708191,8
+108,"Luxury Watch Promotion",2078,"Luxury Timepiece Video",604461,5432,37245.64,6.8567084,9
+109,"Cloud Software Awareness",2084,"Cloud Infrastructure Video",1312355,7998,6288.68,0.7862816,1
+109,"Cloud Software Awareness",2089,"Startup Tech Platform",1320500,7181,6039.80,0.8410806,2
+109,"Cloud Software Awareness",2091,"Founder Tools Promo",1024687,24211,29997.62,1.2390079,3
+109,"Cloud Software Awareness",2086,"Marketing Analytics Banner",979422,21553,29583.21,1.3725797,4
+109,"Cloud Software Awareness",2087,"Analytics Dashboard Video",892585,16538,25807.67,1.5605073,5
+109,"Cloud Software Awareness",2085,"Developer Cloud Platform",1178527,56603,116120.56,2.0514913,6
+109,"Cloud Software Awareness",2090,"Startup Growth Video",1185738,52894,109226.12,2.0650002,7
+109,"Cloud Software Awareness",2088,"Campaign Insights Promo",607422,5264,35031.98,6.6550114,8
+109,"Cloud Software Awareness",2083,"Cloud Developer Tools",607685,5318,36022.04,6.7736066,9
+110,"Mobile Game Launch",2094,"Mobile Gaming Promo",1365854,7268,5724.49,0.7876293,1
+110,"Mobile Game Launch",2099,"Gaming Launch Trailer",1304566,7147,5903.57,0.8260207,2
+110,"Mobile Game Launch",2092,"Mobile Game Ad",883074,18469,24120.53,1.3060009,3
+110,"Mobile Game Launch",2097,"Campus Gaming Promo",895694,17840,25088.98,1.4063330,4
+110,"Mobile Game Launch",2096,"Student Gaming Video",1023540,20120,31784.12,1.5797276,5
+110,"Mobile Game Launch",2095,"College Gamer Ad",1237254,53827,105807.28,1.9656916,6
+110,"Mobile Game Launch",2100,"Mobile Game Event",1204700,54891,108494.91,1.9765519,7
+110,"Mobile Game Launch",2093,"Gaming Trailer",608741,5144,34369.19,6.6814133,8
+110,"Mobile Game Launch",2098,"Gaming Deals Banner",607154,5256,38979.50,7.4161910,9
+111,"Festival Electronics Deals",2109,"Programming Hardware Promo",1309023,7342,6004.76,0.8178643,1
+111,"Festival Electronics Deals",2104,"Festival Laptop Offer",1278148,6946,6174.08,0.8888684,2
+111,"Festival Electronics Deals",2107,"Developer Gadget Ad",902826,19377,25643.27,1.3233870,3
+111,"Festival Electronics Deals",2101,"Festival Electronics Ad",1000170,23419,33760.44,1.4415833,4
+111,"Festival Electronics Deals",2106,"Tech Festival Promo",991820,21196,33538.72,1.5823136,5
+111,"Festival Electronics Deals",2102,"Festival Sale Video",920254,16161,27238.87,1.6854693,6
+111,"Festival Electronics Deals",2105,"Laptop Festival Video",1193118,54612,108547.24,1.9876079,7
+111,"Festival Electronics Deals",2108,"Developer Gear Video",614189,5185,31886.21,6.1497030,8
+111,"Festival Electronics Deals",2103,"Holiday Electronics Promo",592043,5233,32843.29,6.2761877,9
+112,"Beauty Product Launch",2114,"Luxury Beauty Video",1306986,7241,6463.43,0.8926157,1
+112,"Beauty Product Launch",2119,"Organic Skincare Banner",1301705,7092,6708.93,0.9459856,2
+112,"Beauty Product Launch",2112,"Beauty Collection Promo",880875,18809,24678.23,1.3120437,3
+112,"Beauty Product Launch",2111,"Beauty Routine Video",1025170,22298,33155.26,1.4869163,4
+112,"Beauty Product Launch",2117,"Wellness Beauty Video",855981,18031,28570.50,1.5845211,5
+112,"Beauty Product Launch",2116,"Healthy Beauty Ad",1002458,21095,35138.06,1.6657056,6
+112,"Beauty Product Launch",2120,"Skincare Essentials",1165149,55321,119641.22,2.1626728,7
+112,"Beauty Product Launch",2110,"Beauty Product Ad",1213888,51239,115584.66,2.2557946,8
+112,"Beauty Product Launch",2115,"Designer Beauty Promo",1213818,48405,116456.65,2.4058806,9
+112,"Beauty Product Launch",2113,"Luxury Beauty Banner",595361,5508,32355.34,5.8742447,10
+112,"Beauty Product Launch",2118,"Natural Beauty Promo",601433,4916,31579.89,6.4238995,11
+113,"Fintech App Lead Campaign",2124,"Business Finance Tools",1264749,8010,6053.25,0.7557116,1
+113,"Fintech App Lead Campaign",2129,"Fintech Payment Promo",1343047,7715,6473.04,0.8390201,2
+113,"Fintech App Lead Campaign",2122,"Fintech Product Video",911799,18286,23655.84,1.2936585,3
+113,"Fintech App Lead Campaign",2127,"Marketing Fintech Ad",886731,18755,24329.88,1.2972477,4
+113,"Fintech App Lead Campaign",2126,"Business Finance Promo",994633,21504,33475.89,1.5567285,5
+113,"Fintech App Lead Campaign",2121,"Fintech Platform Ad",1008553,22638,36239.19,1.6008124,6
+113,"Fintech App Lead Campaign",2125,"Finance Software Video",1231530,55138,115902.90,2.1020512,7
+113,"Fintech App Lead Campaign",2128,"Digital Payment Video",613659,5224,36042.24,6.8993568,8
+113,"Fintech App Lead Campaign",2123,"Investment Platform Promo",592872,5112,35930.94,7.0287441,9
+114,"Protein Supplement Campaign",2134,"Wellness Nutrition Video",1321511,7141,5789.44,0.8107324,1
+114,"Protein Supplement Campaign",2137,"Fitness Nutrition Video",897666,17100,23019.32,1.3461591,2
+114,"Protein Supplement Campaign",2131,"Workout Nutrition Video",1016617,22780,31313.89,1.3746220,3
+114,"Protein Supplement Campaign",2136,"Fitness Lifestyle Ad",1013297,21861,32083.11,1.4675957,4
+114,"Protein Supplement Campaign",2132,"Gym Nutrition Promo",889710,16751,26215.22,1.5649943,5
+114,"Protein Supplement Campaign",2130,"Gym Fitness Ad",1147539,56106,123540.86,2.2019189,6
+114,"Protein Supplement Campaign",2135,"Protein Nutrition Promo",1187916,54580,120969.22,2.2163653,7
+114,"Protein Supplement Campaign",2138,"Lifestyle Fitness Promo",604532,5210,33013.76,6.3366142,8
+114,"Protein Supplement Campaign",2133,"Healthy Nutrition Ad",582584,5113,36677.73,7.1734266,9
+115,"Home Decor Awareness",2139,"Home Decor Banner",1279124,6906,5177.85,0.7497611,1
+115,"Home Decor Awareness",2144,"Premium Decor Promo",1299238,7105,5978.47,0.8414455,2
+115,"Home Decor Awareness",2147,"Apartment Decor Promo",923873,16919,24855.84,1.4691081,3
+115,"Home Decor Awareness",2146,"City Living Video",1008751,23221,34707.62,1.4946652,4
+115,"Home Decor Awareness",2141,"Home Decor Promo",995816,22168,35616.25,1.6066515,5
+115,"Home Decor Awareness",2142,"Luxury Decor Ad",903473,15919,26765.19,1.6813361,6
+115,"Home Decor Awareness",2145,"Urban Lifestyle Decor",1144868,53391,109863.99,2.0577249,7
+115,"Home Decor Awareness",2140,"Interior Design Video",1167566,50479,114425.36,2.2667913,8
+115,"Home Decor Awareness",2143,"Luxury Interior Video",600536,5423,34336.75,6.3316891,9
+116,"Smartphone Launch Ads",2159,"Smartphone Upgrade Promo",1312957,7470,6470.45,0.8661914,1
+116,"Smartphone Launch Ads",2149,"Smartphone Launch Video",1301953,6959,6069.65,0.8722015,2
+116,"Smartphone Launch Ads",2154,"Smartphone Discount Banner",1317848,6667,6180.55,0.9270361,3
+116,"Smartphone Launch Ads",2156,"Mobile Deals Promo",1003484,22271,31498.67,1.4143357,4
+116,"Smartphone Launch Ads",2157,"Phone Upgrade Ad",884705,17090,25215.97,1.4754810,5
+116,"Smartphone Launch Ads",2151,"Student Smartphone Deal",1022651,22404,33156.24,1.4799250,6
+116,"Smartphone Launch Ads",2152,"Campus Smartphone Video",902059,15869,28484.30,1.7949650,7
+116,"Smartphone Launch Ads",2155,"Mobile Sale Video",1223482,55932,117891.76,2.1077694,8
+116,"Smartphone Launch Ads",2150,"Mobile Innovation Promo",1199752,50656,113747.91,2.2454973,9
+116,"Smartphone Launch Ads",2160,"Mobile Launch Banner",1172316,47488,118314.19,2.4914545,10
+116,"Smartphone Launch Ads",2148,"Smartphone Launch Ad",613060,5174,32464.39,6.2745245,11
+116,"Smartphone Launch Ads",2158,"Mobile Upgrade Video",593919,5152,36036.28,6.9946196,12
+116,"Smartphone Launch Ads",2153,"Budget Smartphone Promo",580496,4875,35659.62,7.3147938,13
+117,"HR Software Lead Gen",2164,"Startup HR Tools",1323689,8487,6095.94,0.7182679,1
+117,"HR Software Lead Gen",2169,"Workforce Analytics Promo",1320188,7811,5739.75,0.7348291,2
+117,"HR Software Lead Gen",2162,"HR Platform Video",903268,18533,26739.48,1.4428036,3
+117,"HR Software Lead Gen",2167,"HR Analytics Ad",935772,17321,25058.56,1.4467155,4
+117,"HR Software Lead Gen",2166,"Startup Hiring Promo",1031038,23604,35147.12,1.4890324,5
+117,"HR Software Lead Gen",2161,"HR Software Ad",1025157,22459,34487.24,1.5355644,6
+117,"HR Software Lead Gen",2165,"Startup HR Video",1157281,57261,119634.90,2.0892911,7
+117,"HR Software Lead Gen",2163,"HR Automation Promo",593874,5791,33737.23,5.8258038,8
+117,"HR Software Lead Gen",2168,"HR Dashboard Video",598273,5150,35313.23,6.8569379,9
+118,"Online Grocery Discount",2174,"Family Shopping Video",1289545,6948,6710.22,0.9657772,1
+118,"Online Grocery Discount",2171,"Grocery Delivery Video",1023317,23200,29069.85,1.2530108,2
+118,"Online Grocery Discount",2177,"Organic Grocery Video",893904,18771,25010.57,1.3324048,3
+118,"Online Grocery Discount",2176,"Healthy Food Ad",1021860,21669,32658.18,1.5071383,4
+118,"Online Grocery Discount",2172,"Grocery Discount Promo",915989,17625,26701.33,1.5149691,5
+118,"Online Grocery Discount",2170,"Online Grocery Deals",1172565,56273,115545.61,2.0533046,6
+118,"Online Grocery Discount",2175,"Family Grocery Promo",1210809,53797,119548.11,2.2222077,7
+118,"Online Grocery Discount",2173,"Family Grocery Ad",602048,5474,33661.54,6.1493497,8
+118,"Online Grocery Discount",2178,"Organic Food Promo",608056,5076,32570.94,6.4166548,9
+119,"Meditation App Promotion",2184,"Relaxation Promo",1330246,7369,5671.02,0.7695780,1
+119,"Meditation App Promotion",2179,"Meditation App Banner",1310735,7457,5867.74,0.7868768,2
+119,"Meditation App Promotion",2187,"Stress Relief Promo",914982,18290,24450.04,1.3367983,3
+119,"Meditation App Promotion",2182,"Fitness Meditation Ad",884722,16898,24555.09,1.4531359,4
+119,"Meditation App Promotion",2181,"Mindfulness Promo",964032,22282,33149.39,1.4877206,5
+119,"Meditation App Promotion",2186,"Calm Mind Video",997512,20425,30896.53,1.5126820,6
+119,"Meditation App Promotion",2180,"Meditation App Video",1198362,53365,123920.83,2.3221368,7
+119,"Meditation App Promotion",2185,"Wellness Meditation Ad",1227835,49732,118243.35,2.3776110,8
+119,"Meditation App Promotion",2183,"Yoga Meditation Video",591829,5431,36444.53,6.7104640,9
+120,"Crypto Trading Platform Ads",2189,"Crypto Platform Video",1280814,7306,5623.93,0.7697687,1
+120,"Crypto Trading Platform Ads",2194,"Crypto Trading Banner",1349633,7017,5627.62,0.8019980,2
+120,"Crypto Trading Platform Ads",2199,"Crypto Market Insights",1265197,6274,5950.48,0.9484348,3
+120,"Crypto Trading Platform Ads",2197,"Crypto Strategy Ad",904142,18407,26140.30,1.4201282,4
+120,"Crypto Trading Platform Ads",2192,"Blockchain Platform Video",876600,17922,26697.00,1.4896217,5
+120,"Crypto Trading Platform Ads",2196,"Digital Asset Promo",1046552,22079,32958.07,1.4927338,6
+120,"Crypto Trading Platform Ads",2191,"Crypto Developer Ad",1011214,21407,37100.75,1.7331130,7
+120,"Crypto Trading Platform Ads",2195,"Crypto Market Video",1195129,53579,106945.36,1.9960313,8
+120,"Crypto Trading Platform Ads",2200,"Crypto Exchange Promo",1160024,50010,116554.29,2.3306197,9
+120,"Crypto Trading Platform Ads",2190,"Crypto Investment Promo",1180504,50943,127205.79,2.4970220,10
+120,"Crypto Trading Platform Ads",2193,"Web3 Developer Promo",593348,5400,34243.76,6.3414370,11
+120,"Crypto Trading Platform Ads",2188,"Crypto Trading Ad",608735,5546,36903.13,6.6540083,12
+120,"Crypto Trading Platform Ads",2198,"Crypto Trading Tools",601837,5158,35017.91,6.7890481,13
